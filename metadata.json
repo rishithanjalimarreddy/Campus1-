@@ -1,0 +1,6 @@
+{
+  "name": "CampusOne - Integrated Academic, Examination & Smart Library Platform",
+  "description": "Mobile-first unified college management platform integrating academic timetables, exam lifecycle, syllabus tracking, PYQs, and smart OPAC library services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
